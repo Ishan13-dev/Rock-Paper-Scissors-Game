@@ -2,6 +2,10 @@
 
 A simple, interactive **Rock Paper Scissors** game built with HTML, CSS, and JavaScript. Play against the computer in a best-of-three match and see who wins!
 
+## 🌐 Live Demo
+
+**Play the game online:** [Rock Paper Scissors Game](https://ishan13-dev.github.io/Rock-Paper-Scissors-Game/)
+
 ## 🎮 Play the Game
 
 Choose **Rock**, **Paper**, or **Scissors** to play a round against the computer. The game tracks both scores and announces the final result after three rounds.
